@@ -1,5 +1,7 @@
 # Appunti seconda lezione
 
+A cura di Claudio.
+
 ## Risorse
 
 Documentazione di python: [docs.python.org/3](https://docs.python.org/3/)
@@ -32,7 +34,7 @@ Percorso delle librerie: `/usr/lib/py*`
     >>> s-1
 
 
-## Formattazione di stringhe ("vecchio" metodo)
+## Formattazione di stringhe ("vecchio" stile)
 
     >>> welcome = "Benvenuti al corso di programmazione da" + 0
     Traceback (most recent call last):
