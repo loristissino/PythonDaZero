@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 
 iscritti = ('Mario', 'Giovanni', 'Luigi')
+# creiamo un elenco di elementi, assegnandolo alla variabile iscritti
+# (con le parentesi tonde otteniamo un oggetto immutabile, chiamato
+# "tupla"; con le parentesi quadre avrei ottenuto un oggetto mutabile
+# chiamato "lista"; sulla differenza tra i due tipi, importante ma 
+# irrilevante ai fini dei seguenti esempi, torneremo più avanti)
 
 
 # ciclo `for`
