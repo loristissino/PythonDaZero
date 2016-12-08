@@ -1,4 +1,4 @@
-# Appunti quinta lezione
+# Appunti sesta lezione
 
 ## Esercizio di riscaldamento
 
@@ -61,7 +61,7 @@ Nella terza, `hangman.py`, viene definita una funzione, che viene però
 richiamata solo quando il programma è invocato direttamente (e non quando
 lo stesso codice viene importato in altro programma).
 
-Nella quarta, `con_uso_di_modulo.py` si vede come il codice della terza
+Nella quarta, `con_uso_di_modulo.py`, si vede come il codice della terza
 versione può essere importato come modulo in un proprio programma diverso.
 Con questa logica si può organizzare il codice in maniera migliore.
 
