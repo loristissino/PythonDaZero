@@ -49,20 +49,26 @@ Vedere l'esempio `try_except.py`.
 
 ## Progetto "gioco dell'impiccato"
 
-Nella cartella `hangman` sono presenti quatto versioni diverse di una bozza
+Nella cartella `hangman` sono presenti cinque versioni diverse di una bozza
 di programma che per ora fa solo l'estrazione casuale di una parola da 
 una lista di parole.
 
-Nella prima, `base.py`, non si fa uso di funzioni.
+Nella prima, `01_base`, non si fa uso di funzioni.
 
-Nella seconda, `con_funzione.py`, viene definita una funzione e poi richiamata.
+Nella seconda, `02_con_funzione`, viene definita una funzione e poi richiamata.
 
-Nella terza, `hangman.py`, viene definita una funzione, che viene però
-richiamata solo quando il programma è invocato direttamente (e non quando
-lo stesso codice viene importato in altro programma).
+Nella terza, `03_con_esecuzione_solo_nel_caso_di_chiamata_diretta`, viene 
+definita una funzione, che è però richiamata solo quando il programma 
+è invocato direttamente (e non quando lo stesso codice viene importato
+in altro programma).
 
-Nella quarta, `con_uso_di_modulo.py`, si vede come il codice della terza
+Nella quarta, `04_con_richiamo_di_modulo`, si vede come il codice della terza
 versione può essere importato come modulo in un proprio programma diverso.
 Con questa logica si può organizzare il codice in maniera migliore.
+
+Nella quinta, `05_con_scelta_di_funzione`, viene mostrato come si possano
+avere due funzioni distinte per ottenere un determinato risultato, e poi
+si possa associare un nome generico di funzione ad una di quelle specifiche.
+
 
 
